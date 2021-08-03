@@ -1,0 +1,14 @@
+{
+  "name": "3.-serving-static-files",
+  "version": "1.0.0",
+  "description": "Serving static files 101",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Navaneeth",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
